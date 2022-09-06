@@ -1,2 +1,2 @@
 # simple_http_server
- A simple multithreaded web server
+ A simple multithreaded web server.
